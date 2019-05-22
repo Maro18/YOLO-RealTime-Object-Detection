@@ -6,6 +6,7 @@ Tensorflow, OpenCV, Pafy, Devicehive, Six
 
 or just run `pip install -r requirements.txt`
 
+
 Download and extract [data](https://s3.amazonaws.com/video-analysis-demo/data.tar.gz "YOLO Neural Network") folder to the project.
 
 ## Running
