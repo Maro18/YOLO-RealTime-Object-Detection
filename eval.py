@@ -95,7 +95,7 @@ def evaluate(_):
 
             # Take screenshot
             if key == ord('s'):
-                cv2.imwrite('frame_{}.jpg'.format(time.time()), frame)
+                cv2.imwrite('./screenshots/frame_{}.jpg'.format(time.time()), frame)
 
             frame_num += 1
 
