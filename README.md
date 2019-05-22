@@ -3,9 +3,7 @@ Fork of YOLO real-time object detection with pretrained PascelVOC dataset.
 
 ## Requirements
 Tensorflow
-
 OpenCV
-
 Pafy
 
 or just run `pip install -r requirements.txt`
