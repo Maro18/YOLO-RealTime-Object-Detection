@@ -1,5 +1,5 @@
 # YOLO Real-Time Object Detection
-Fork of YOLO real-time object detection with pretrained PascelVOC dataset.
+Fork of YOLO real-time object detection with pretrained PascalVOC dataset.
 
 ## Requirements
 Tensorflow, OpenCV, Pafy, Devicehive, Six
