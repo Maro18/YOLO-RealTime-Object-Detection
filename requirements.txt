@@ -1,4 +1,4 @@
-tensorflow==1.13.1
+tensorflow==1.15.2
 opencv-contrib-python==4.1.0.25
 devicehive==2.1.6
 six==1.12.0
